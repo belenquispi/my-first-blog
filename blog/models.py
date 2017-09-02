@@ -1,4 +1,4 @@
-#Este modelo fue hecho por Belen 
+#Este modelo fue hecho por Majito
 from django.db import models
 from django.utils import timezone
 
